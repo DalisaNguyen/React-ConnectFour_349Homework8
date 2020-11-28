@@ -1,0 +1,29 @@
+
+  .boldCurrent {
+    font-weight: bold;
+  }
+  
+  .notBold {
+      font-weight: normal;
+  }
+
+  .winSquares {
+      background: red;
+      color: red;
+      background-color: rgb(165, 29, 29);
+  }
+
+  .highlight {
+    background: lime;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+  }
